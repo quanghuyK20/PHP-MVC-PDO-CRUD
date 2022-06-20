@@ -1,0 +1,571 @@
+[17-Jun-2022 14:32:23 Asia/Krasnoyarsk] Uncaught exception: 'Twig_Error_Syntax' with message 'An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "Home/index.html".'
+Stack trace: #0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/App/Controllers/Home.php(23): Core\View::renderTemplate()
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 /var/www/abc.test/Core/Controller.php(21): call_user_func_array()
+#6 /var/www/abc.test/Core/Router.php(76): Core\Controller->__call()
+#7 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php' on line 678
+[17-Jun-2022 14:32:26 Asia/Krasnoyarsk] Uncaught exception: 'Twig_Error_Syntax' with message 'An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "Home/index.html".'
+Stack trace: #0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/App/Controllers/Home.php(23): Core\View::renderTemplate()
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 /var/www/abc.test/Core/Controller.php(21): call_user_func_array()
+#6 /var/www/abc.test/Core/Router.php(76): Core\Controller->__call()
+#7 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php' on line 678
+[17-Jun-2022 14:32:28 Asia/Krasnoyarsk] Uncaught exception: 'Twig_Error_Syntax' with message 'An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "Home/index.html".'
+Stack trace: #0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/App/Controllers/Home.php(23): Core\View::renderTemplate()
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 /var/www/abc.test/Core/Controller.php(21): call_user_func_array()
+#6 /var/www/abc.test/Core/Router.php(76): Core\Controller->__call()
+#7 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php' on line 678
+[17-Jun-2022 14:43:42 Asia/Krasnoyarsk] Uncaught exception: 'Twig_Error_Syntax' with message 'An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "Home/index.html".'
+Stack trace: #0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/App/Controllers/Home.php(23): Core\View::renderTemplate()
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 /var/www/abc.test/Core/Controller.php(21): call_user_func_array()
+#6 /var/www/abc.test/Core/Router.php(76): Core\Controller->__call()
+#7 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php' on line 678
+[17-Jun-2022 14:43:44 Asia/Krasnoyarsk] Uncaught exception: 'Twig_Error_Syntax' with message 'An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "Home/index.html".'
+Stack trace: #0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/App/Controllers/Home.php(23): Core\View::renderTemplate()
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 /var/www/abc.test/Core/Controller.php(21): call_user_func_array()
+#6 /var/www/abc.test/Core/Router.php(76): Core\Controller->__call()
+#7 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php' on line 678
+[17-Jun-2022 14:45:07 Asia/Krasnoyarsk] Uncaught exception: 'Twig_Error_Syntax' with message 'An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "Home/index.html".'
+Stack trace: #0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/App/Controllers/Home.php(23): Core\View::renderTemplate()
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 /var/www/abc.test/Core/Controller.php(21): call_user_func_array()
+#6 /var/www/abc.test/Core/Router.php(76): Core\Controller->__call()
+#7 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php' on line 678
+[17-Jun-2022 14:45:07 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught ErrorException: Undefined variable $code in /var/www/abc.test/Core/Error.php:33
+Stack trace:
+#0 /var/www/abc.test/Core/Error.php(33): Core\Error::errorHandler()
+#1 [internal function]: Core\Error::exceptionHandler()
+#2 {main}
+  thrown in /var/www/abc.test/Core/Error.php on line 33
+[17-Jun-2022 14:45:10 Asia/Krasnoyarsk] Uncaught exception: 'Exception' with message 'No route not found '
+Stack trace: #0 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/abc.test/Core/Router.php' on line 85
+[17-Jun-2022 14:45:10 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught ErrorException: Undefined variable $code in /var/www/abc.test/Core/Error.php:33
+Stack trace:
+#0 /var/www/abc.test/Core/Error.php(33): Core\Error::errorHandler()
+#1 [internal function]: Core\Error::exceptionHandler()
+#2 {main}
+  thrown in /var/www/abc.test/Core/Error.php on line 33
+[17-Jun-2022 14:48:04 Asia/Krasnoyarsk] Uncaught exception: 'Exception' with message 'No route not found '
+Stack trace: #0 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/abc.test/Core/Router.php' on line 85
+[17-Jun-2022 14:48:04 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught ErrorException: preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated in /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php:176
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(176): preg_match()
+#2 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(107): Twig_Lexer->lexData()
+#3 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(577): Twig_Lexer->tokenize()
+#4 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(667): Twig_Environment->tokenize()
+#5 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#6 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#7 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#8 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#9 [internal function]: Core\Error::exceptionHandler()
+#10 {main}
+
+Next Twig_Error_Syntax: An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "500.html". in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php:678
+Stack trace:
+#0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#4 [internal function]: Core\Error::exceptionHandler()
+#5 {main}
+  thrown in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php on line 678
+[17-Jun-2022 14:48:05 Asia/Krasnoyarsk] Uncaught exception: 'Exception' with message 'No route not found '
+Stack trace: #0 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/abc.test/Core/Router.php' on line 85
+[17-Jun-2022 14:48:05 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught ErrorException: preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated in /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php:176
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(176): preg_match()
+#2 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(107): Twig_Lexer->lexData()
+#3 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(577): Twig_Lexer->tokenize()
+#4 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(667): Twig_Environment->tokenize()
+#5 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#6 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#7 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#8 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#9 [internal function]: Core\Error::exceptionHandler()
+#10 {main}
+
+Next Twig_Error_Syntax: An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "500.html". in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php:678
+Stack trace:
+#0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#4 [internal function]: Core\Error::exceptionHandler()
+#5 {main}
+  thrown in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php on line 678
+[17-Jun-2022 14:48:05 Asia/Krasnoyarsk] Uncaught exception: 'Exception' with message 'No route not found '
+Stack trace: #0 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#1 {main}
+Thrown in '/var/www/abc.test/Core/Router.php' on line 85
+[17-Jun-2022 14:48:05 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught ErrorException: preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated in /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php:176
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(176): preg_match()
+#2 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(107): Twig_Lexer->lexData()
+#3 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(577): Twig_Lexer->tokenize()
+#4 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(667): Twig_Environment->tokenize()
+#5 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#6 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#7 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#8 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#9 [internal function]: Core\Error::exceptionHandler()
+#10 {main}
+
+Next Twig_Error_Syntax: An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "500.html". in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php:678
+Stack trace:
+#0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#4 [internal function]: Core\Error::exceptionHandler()
+#5 {main}
+  thrown in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php on line 678
+[17-Jun-2022 14:48:07 Asia/Krasnoyarsk] Uncaught exception: 'Twig_Error_Syntax' with message 'An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "Home/index.html".'
+Stack trace: #0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/App/Controllers/Home.php(23): Core\View::renderTemplate()
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 /var/www/abc.test/Core/Controller.php(21): call_user_func_array()
+#6 /var/www/abc.test/Core/Router.php(76): Core\Controller->__call()
+#7 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php' on line 678
+[17-Jun-2022 14:48:07 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught ErrorException: preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated in /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php:176
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(176): preg_match()
+#2 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(107): Twig_Lexer->lexData()
+#3 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(577): Twig_Lexer->tokenize()
+#4 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(667): Twig_Environment->tokenize()
+#5 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#6 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#7 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#8 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#9 [internal function]: Core\Error::exceptionHandler()
+#10 {main}
+
+Next Twig_Error_Syntax: An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "500.html". in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php:678
+Stack trace:
+#0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#4 [internal function]: Core\Error::exceptionHandler()
+#5 {main}
+  thrown in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php on line 678
+[17-Jun-2022 14:48:07 Asia/Krasnoyarsk] Uncaught exception: 'Twig_Error_Syntax' with message 'An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "Home/index.html".'
+Stack trace: #0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/App/Controllers/Home.php(23): Core\View::renderTemplate()
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 /var/www/abc.test/Core/Controller.php(21): call_user_func_array()
+#6 /var/www/abc.test/Core/Router.php(76): Core\Controller->__call()
+#7 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php' on line 678
+[17-Jun-2022 14:48:07 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught ErrorException: preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated in /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php:176
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(176): preg_match()
+#2 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(107): Twig_Lexer->lexData()
+#3 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(577): Twig_Lexer->tokenize()
+#4 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(667): Twig_Environment->tokenize()
+#5 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#6 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#7 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#8 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#9 [internal function]: Core\Error::exceptionHandler()
+#10 {main}
+
+Next Twig_Error_Syntax: An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "500.html". in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php:678
+Stack trace:
+#0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#4 [internal function]: Core\Error::exceptionHandler()
+#5 {main}
+  thrown in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php on line 678
+[17-Jun-2022 14:48:07 Asia/Krasnoyarsk] Uncaught exception: 'Twig_Error_Syntax' with message 'An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "Home/index.html".'
+Stack trace: #0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/App/Controllers/Home.php(23): Core\View::renderTemplate()
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 /var/www/abc.test/Core/Controller.php(21): call_user_func_array()
+#6 /var/www/abc.test/Core/Router.php(76): Core\Controller->__call()
+#7 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php' on line 678
+[17-Jun-2022 14:48:07 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught ErrorException: preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated in /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php:176
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(176): preg_match()
+#2 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(107): Twig_Lexer->lexData()
+#3 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(577): Twig_Lexer->tokenize()
+#4 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(667): Twig_Environment->tokenize()
+#5 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#6 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#7 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#8 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#9 [internal function]: Core\Error::exceptionHandler()
+#10 {main}
+
+Next Twig_Error_Syntax: An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "500.html". in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php:678
+Stack trace:
+#0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#4 [internal function]: Core\Error::exceptionHandler()
+#5 {main}
+  thrown in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php on line 678
+[17-Jun-2022 14:48:07 Asia/Krasnoyarsk] Uncaught exception: 'Twig_Error_Syntax' with message 'An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "Home/index.html".'
+Stack trace: #0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/App/Controllers/Home.php(23): Core\View::renderTemplate()
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 /var/www/abc.test/Core/Controller.php(21): call_user_func_array()
+#6 /var/www/abc.test/Core/Router.php(76): Core\Controller->__call()
+#7 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php' on line 678
+[17-Jun-2022 14:48:07 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught ErrorException: preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated in /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php:176
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(176): preg_match()
+#2 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(107): Twig_Lexer->lexData()
+#3 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(577): Twig_Lexer->tokenize()
+#4 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(667): Twig_Environment->tokenize()
+#5 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#6 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#7 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#8 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#9 [internal function]: Core\Error::exceptionHandler()
+#10 {main}
+
+Next Twig_Error_Syntax: An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "500.html". in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php:678
+Stack trace:
+#0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#4 [internal function]: Core\Error::exceptionHandler()
+#5 {main}
+  thrown in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php on line 678
+[17-Jun-2022 14:48:11 Asia/Krasnoyarsk] Uncaught exception: 'Twig_Error_Syntax' with message 'An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "Home/index.html".'
+Stack trace: #0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/App/Controllers/Home.php(23): Core\View::renderTemplate()
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 /var/www/abc.test/Core/Controller.php(21): call_user_func_array()
+#6 /var/www/abc.test/Core/Router.php(76): Core\Controller->__call()
+#7 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php' on line 678
+[17-Jun-2022 14:48:11 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught ErrorException: preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated in /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php:176
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(176): preg_match()
+#2 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(107): Twig_Lexer->lexData()
+#3 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(577): Twig_Lexer->tokenize()
+#4 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(667): Twig_Environment->tokenize()
+#5 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#6 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#7 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#8 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#9 [internal function]: Core\Error::exceptionHandler()
+#10 {main}
+
+Next Twig_Error_Syntax: An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "500.html". in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php:678
+Stack trace:
+#0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#4 [internal function]: Core\Error::exceptionHandler()
+#5 {main}
+  thrown in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php on line 678
+[17-Jun-2022 14:49:49 Asia/Krasnoyarsk] Uncaught exception: 'Twig_Error_Syntax' with message 'An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "Home/index.html".'
+Stack trace: #0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/App/Controllers/Home.php(23): Core\View::renderTemplate()
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 /var/www/abc.test/Core/Controller.php(21): call_user_func_array()
+#6 /var/www/abc.test/Core/Router.php(76): Core\Controller->__call()
+#7 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php' on line 678
+[17-Jun-2022 14:49:49 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught ErrorException: preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated in /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php:176
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(176): preg_match()
+#2 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(107): Twig_Lexer->lexData()
+#3 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(577): Twig_Lexer->tokenize()
+#4 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(667): Twig_Environment->tokenize()
+#5 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#6 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#7 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#8 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#9 [internal function]: Core\Error::exceptionHandler()
+#10 {main}
+
+Next Twig_Error_Syntax: An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "500.html". in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php:678
+Stack trace:
+#0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#4 [internal function]: Core\Error::exceptionHandler()
+#5 {main}
+  thrown in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php on line 678
+[17-Jun-2022 14:49:49 Asia/Krasnoyarsk] Uncaught exception: 'Twig_Error_Syntax' with message 'An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "Home/index.html".'
+Stack trace: #0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/App/Controllers/Home.php(23): Core\View::renderTemplate()
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 /var/www/abc.test/Core/Controller.php(21): call_user_func_array()
+#6 /var/www/abc.test/Core/Router.php(76): Core\Controller->__call()
+#7 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php' on line 678
+[17-Jun-2022 14:49:49 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught ErrorException: preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated in /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php:176
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(176): preg_match()
+#2 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(107): Twig_Lexer->lexData()
+#3 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(577): Twig_Lexer->tokenize()
+#4 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(667): Twig_Environment->tokenize()
+#5 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#6 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#7 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#8 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#9 [internal function]: Core\Error::exceptionHandler()
+#10 {main}
+
+Next Twig_Error_Syntax: An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "500.html". in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php:678
+Stack trace:
+#0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#4 [internal function]: Core\Error::exceptionHandler()
+#5 {main}
+  thrown in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php on line 678
+[17-Jun-2022 14:49:49 Asia/Krasnoyarsk] Uncaught exception: 'Twig_Error_Syntax' with message 'An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "Home/index.html".'
+Stack trace: #0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/App/Controllers/Home.php(23): Core\View::renderTemplate()
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 /var/www/abc.test/Core/Controller.php(21): call_user_func_array()
+#6 /var/www/abc.test/Core/Router.php(76): Core\Controller->__call()
+#7 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php' on line 678
+[17-Jun-2022 14:49:49 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught ErrorException: preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated in /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php:176
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(176): preg_match()
+#2 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(107): Twig_Lexer->lexData()
+#3 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(577): Twig_Lexer->tokenize()
+#4 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(667): Twig_Environment->tokenize()
+#5 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#6 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#7 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#8 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#9 [internal function]: Core\Error::exceptionHandler()
+#10 {main}
+
+Next Twig_Error_Syntax: An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "500.html". in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php:678
+Stack trace:
+#0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#4 [internal function]: Core\Error::exceptionHandler()
+#5 {main}
+  thrown in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php on line 678
+[17-Jun-2022 14:49:49 Asia/Krasnoyarsk] Uncaught exception: 'Twig_Error_Syntax' with message 'An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "Home/index.html".'
+Stack trace: #0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/App/Controllers/Home.php(23): Core\View::renderTemplate()
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 /var/www/abc.test/Core/Controller.php(21): call_user_func_array()
+#6 /var/www/abc.test/Core/Router.php(76): Core\Controller->__call()
+#7 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php' on line 678
+[17-Jun-2022 14:49:49 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught ErrorException: preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated in /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php:176
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(176): preg_match()
+#2 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(107): Twig_Lexer->lexData()
+#3 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(577): Twig_Lexer->tokenize()
+#4 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(667): Twig_Environment->tokenize()
+#5 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#6 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#7 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#8 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#9 [internal function]: Core\Error::exceptionHandler()
+#10 {main}
+
+Next Twig_Error_Syntax: An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "500.html". in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php:678
+Stack trace:
+#0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#4 [internal function]: Core\Error::exceptionHandler()
+#5 {main}
+  thrown in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php on line 678
+[17-Jun-2022 14:51:21 Asia/Krasnoyarsk] Uncaught exception: 'Twig_Error_Syntax' with message 'An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "Home/index.html".'
+Stack trace: #0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/App/Controllers/Home.php(23): Core\View::renderTemplate()
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 /var/www/abc.test/Core/Controller.php(21): call_user_func_array()
+#6 /var/www/abc.test/Core/Router.php(70): Core\Controller->__call()
+#7 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php' on line 678
+[17-Jun-2022 14:51:21 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught ErrorException: preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated in /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php:176
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(176): preg_match()
+#2 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(107): Twig_Lexer->lexData()
+#3 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(577): Twig_Lexer->tokenize()
+#4 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(667): Twig_Environment->tokenize()
+#5 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#6 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#7 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#8 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#9 [internal function]: Core\Error::exceptionHandler()
+#10 {main}
+
+Next Twig_Error_Syntax: An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "500.html". in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php:678
+Stack trace:
+#0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#4 [internal function]: Core\Error::exceptionHandler()
+#5 {main}
+  thrown in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php on line 678
+[17-Jun-2022 14:51:21 Asia/Krasnoyarsk] Uncaught exception: 'Twig_Error_Syntax' with message 'An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "Home/index.html".'
+Stack trace: #0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/App/Controllers/Home.php(23): Core\View::renderTemplate()
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 /var/www/abc.test/Core/Controller.php(21): call_user_func_array()
+#6 /var/www/abc.test/Core/Router.php(70): Core\Controller->__call()
+#7 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php' on line 678
+[17-Jun-2022 14:51:21 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught ErrorException: preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated in /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php:176
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(176): preg_match()
+#2 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(107): Twig_Lexer->lexData()
+#3 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(577): Twig_Lexer->tokenize()
+#4 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(667): Twig_Environment->tokenize()
+#5 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#6 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#7 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#8 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#9 [internal function]: Core\Error::exceptionHandler()
+#10 {main}
+
+Next Twig_Error_Syntax: An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "500.html". in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php:678
+Stack trace:
+#0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#4 [internal function]: Core\Error::exceptionHandler()
+#5 {main}
+  thrown in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php on line 678
+[17-Jun-2022 14:51:21 Asia/Krasnoyarsk] Uncaught exception: 'Twig_Error_Syntax' with message 'An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "Home/index.html".'
+Stack trace: #0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/App/Controllers/Home.php(23): Core\View::renderTemplate()
+#4 [internal function]: App\Controllers\Home->indexAction()
+#5 /var/www/abc.test/Core/Controller.php(21): call_user_func_array()
+#6 /var/www/abc.test/Core/Router.php(70): Core\Controller->__call()
+#7 /var/www/abc.test/public/index.php(30): Core\Router->dispatch()
+#8 {main}
+Thrown in '/var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php' on line 678
+[17-Jun-2022 14:51:21 Asia/Krasnoyarsk] PHP Fatal error:  Uncaught ErrorException: preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated in /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php:176
+Stack trace:
+#0 [internal function]: Core\Error::errorHandler()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(176): preg_match()
+#2 /var/www/abc.test/vendor/twig/twig/lib/Twig/Lexer.php(107): Twig_Lexer->lexData()
+#3 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(577): Twig_Lexer->tokenize()
+#4 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(667): Twig_Environment->tokenize()
+#5 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#6 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#7 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#8 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#9 [internal function]: Core\Error::exceptionHandler()
+#10 {main}
+
+Next Twig_Error_Syntax: An exception has been thrown during the compilation of a template ("preg_match(): Passing null to parameter #4 ($flags) of type int is deprecated") in "500.html". in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php:678
+Stack trace:
+#0 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(396): Twig_Environment->compileSource()
+#1 /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php(347): Twig_Environment->loadTemplate()
+#2 /var/www/abc.test/Core/View.php(31): Twig_Environment->render()
+#3 /var/www/abc.test/Core/Error.php(40): Core\View::renderTemplate()
+#4 [internal function]: Core\Error::exceptionHandler()
+#5 {main}
+  thrown in /var/www/abc.test/vendor/twig/twig/lib/Twig/Environment.php on line 678

@@ -1,0 +1,51 @@
+{% extends "base.html" %} {% block title %}Posts{% endblock %} {% block body %}
+
+<head>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        
+        th,
+        td {
+            text-align: left;
+            padding: 8px;
+        }
+        
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>Posts</h2>
+    <table>
+        <td>
+            <a href="/?posts/addNew">
+                <button type="button" class="btn btn-primary btn-block">ADD</button></a>
+        </td>
+        <tr>
+            <th>Title</th>
+            <th>Content</th>
+            <th>Photo</th>
+            <th>Action</th>
+        </tr>
+        {% for post in posts %}
+        <tr>
+            <td>{{ post.title}}</td>
+            <td>{{ post.content}}</td>
+            <td><img src="/images/{{ post.photo }}" height="100" width="120" alt=""></td>
+            <td>
+                <a href="/?posts/{{ post.id }}/edit">
+                    <button type="button" class="btn btn-primary btn-block">Update</button></a>
+                <a href="/?posts/{{ post.id }}/delete">
+                    <button type="submit1" name="" class="btn btn-primary btn-block" style="background-color: #DF3A01;" onclick="return confirm('Bạn muốn xóa thông tin ?')">DELETE</button></a>
+            </td>
+        </tr>
+        {% endfor %}
+
+    </table>
+    {% endblock %}
